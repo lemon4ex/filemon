@@ -1,0 +1,10 @@
+Package: com.byteage.filemon
+Name: filemon
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: FileSystem Monitor utility
+Maintainer: h4ck1n
+Author: Jonathan Levin
+Section: System
+Tag: role::hacker
+Homepage: http://newosxbook.com/tools/filemon.html
