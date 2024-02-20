@@ -10,3 +10,4 @@ filemon_CODESIGN_FLAGS = -Sentitlements.plist
 filemon_INSTALL_PATH = /usr/bin
 
 include $(THEOS_MAKE_PATH)/tool.mk
+include $(THEOS_MAKE_PATH)/aggregate.mk
